@@ -22,3 +22,9 @@ body{
   right: 10px;
   color: #fff;
 }
+
+#website-link{
+  font-weight: 700;
+  text-decoration: none;
+  color: #fff;
+}
