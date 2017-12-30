@@ -12,3 +12,13 @@ body{
 	justify-content: center;
 	margin-top: 30px;
 }
+
+.dev-info{
+  font-family: 'Saira Semi Condensed', sans-serif;
+  font-size: 14px;
+  text-align: right;
+  position: relative;
+  top: 300px;
+  right: 10px;
+  color: #fff;
+}
